@@ -11,7 +11,6 @@ Este espacio será sobre:
 - Física
 - Matemáticas
 - Laboratorios
-- Pedagogía
 - Senderismo y ciencia
 
 ## Primera publicación
