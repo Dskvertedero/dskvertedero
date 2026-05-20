@@ -1,16 +1,16 @@
-# ¿Se puede tener dislexia en un idioma y en otro no? Lo que dice la ciencia
+Holap, esta primera entrada servirá mas que nada para experimentar con la escritura y ver que rumbo tendrá el articulo, fiel a mi mismo intentare añadir humor acido y chistes mas rancios que yo que se me ocurra mientras escriba
 
-Imagina a alguien que puede leer relativamente bien en español, pero cuando intenta leer en inglés se tropieza con palabras, confunde sonidos y tarda mucho más. La pregunta surge casi de inmediato:
+Ahora hablando propiamente del tema del día de hoy, jaja siempre quise escribir eso, mientras leía un articulo sobre como afecta la lectura a nivel neuronal, entre esos párrafos atizaban sobre el tema de la dislexia, específicamente la estructura gramatica de un idioma activan una region distinta en funcion en como este estructurado dicho idioma y la verdad eso em parecio fascinante lo suficiente como para dar una investigacion propia y mas profunda del tema.
 
-> **¿Será que tiene dislexia en inglés, pero no en español?**
+Imagina a alguien que puede leer  bien en español, pero cuando intenta leer en inglés presenta problemitas, lee golpeado, confunde sonidos entre otras cosas. Asi que diganle a la teacher  como ve no soy baboso, es que tengo dislexia en el ingles miss.
 
-La respuesta corta es: **no exactamente**. Pero la historia es mucho más interesante de lo que parece.
-
-La ciencia ha encontrado que la dislexia **no desaparece ni aparece según el idioma**, aunque sí puede **manifestarse de formas muy diferentes dependiendo del sistema de escritura**. En algunos idiomas puede pasar casi desapercibida, mientras que en otros se vuelve mucho más evidente.
+Pero antes de continuar primero hay que realizar algunas definiciones, si no como se podra habalr de algo que no esta definido.
 
 ## ¿Qué es realmente la dislexia?
 
-La dislexia es una dificultad específica del aprendizaje relacionada con la lectura y el procesamiento del lenguaje escrito. No tiene que ver con inteligencia ni falta de esfuerzo. Muchas personas con dislexia tienen capacidades cognitivas completamente normales o incluso sobresalientes.
+Tomado directamente de la APA
+
+"Un **déficit en la capacidad de decodificar con precisión y fluidez**, o convertir palabras escritas en habla". Esta desconexión "representa esencialmente un cuello de botella en el proceso de unir el sistema visual y el sistema del lenguaje"
 
 Generalmente implica dificultades para:
 
@@ -23,7 +23,7 @@ Generalmente implica dificultades para:
 - Automatizar la ortografía.
     
 
-Durante mucho tiempo se pensó en la dislexia como algo universal: si una persona tenía dificultades, las tendría igual en cualquier idioma. Sin embargo, investigaciones recientes muestran una realidad más compleja.
+Bien 
 
 ## El secreto está en el idioma
 
