@@ -1,3 +1,79 @@
 @use "./base.scss";
+.page-title {
+  font-size: 2.7rem;
+  font-weight: 500;
+}
 
+article {
+  max-width: 760px;
+  margin: auto;
+  line-height: 1.9;
+  font-size: 1.08rem;
+}
+
+.explorer-content ul li a {
+  border-radius: 18px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+  display: block;
+  background: #f2ede4;
+  transition: all 0.2s ease;
+}
+
+.explorer-content ul li a:hover {
+  transform: translateY(-2px);
+}
+
+.sidebar {
+  border-right: none;
+}
+
+blockquote {
+  border-left: 4px solid #6d8c72;
+  background: #f5f1e8;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+img {
+  border-radius: 16px;
+}
+
+article h1,
+article h2,
+article h3 {
+  letter-spacing: -0.03em;
+}
 // put your custom CSS here!
+.garden-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.3rem;
+  margin: 2rem 0;
+}
+
+.garden-card {
+  background: #f5f1e8;
+  border-radius: 22px;
+  padding: 1.6rem;
+  text-decoration: none !important;
+  color: inherit !important;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+  transition: all 0.25s ease;
+  border: 1px solid rgba(0,0,0,0.05);
+}
+
+.garden-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.08);
+}
+
+.garden-card h2 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.garden-card p {
+  opacity: 0.8;
+  line-height: 1.7;
+}

@@ -3,25 +3,38 @@ title: Inicio
 ---
 
 # Bienvenido a mi blog
-TENGO MIEDO
+---
+title: Home
+---
 
-Hola, soy agluien tratande  realizar un blog.
+# Sergio Salazar
 
-Este espacio será sobre:
 
-- Física
-- Matemáticas
-- Laboratorios
-- Senderismo y ciencia
+Este espacio funciona como un*vertedero*: un lugar para organizar ideas,  notas y conexiones.
 
-## Primera publicación
+<div class="garden-grid">
 
-Puedes leer:
+<a class="garden-card" href="/fisica">
+  <h2>⚛️ Física</h2>
+  <p>Mecánica, electromagnetismo, laboratorios, física matemática y apuntes universitarios.</p>
+</a>
 
-[[Prueba de blog]]
+<a class="garden-card" href="/matematicas">
+  <h2>📐 Matemáticas</h2>
+  <p>Cálculo, álgebra lineal, teoría de grupos, funciones implícitas y demostraciones.</p>
+</a>
 
-## Una ecuación de prueba
+<a class="garden-card" href="/senderismo">
+  <h2>⛰️ Senderismo & Ciencia</h2>
+  <p>Rutas, observaciones naturales y exploración del entorno.</p>
+</a>
 
-$$
-F = ma
-$$
+</div>
+
+## Notas recientes
+
+Explora las ideas más nuevas del jardín digital usando el menú lateral.
+
+---
+
+> “Aprender es conectar ideas.”
